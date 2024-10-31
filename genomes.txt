@@ -1,2 +1,2 @@
 genome oviAri4
-trackDb trackDb_30Nov23.txt
+trackDb trackDb.txt
